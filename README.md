@@ -13,4 +13,5 @@ If there's sufficient interest we may set up a separate meetup or we may meet mo
 If you'd like to learn more about the Detroit chapter of PWL, please reach out to either of these two folks:
 
 [Onorio Catenacci](catenacci@ieee.org)
+
 [Michael Kumm](michael@mkumm.com)
